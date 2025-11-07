@@ -4,9 +4,6 @@ In this project we implemented Multiple Object Tracking(MOT) to develop a robust
 # Dataset
 https://motchallenge.net/data/MOT16/
 
-# Modules Used
-
-
 # Requirements
 Python 3.x
 Ultralytics
@@ -14,6 +11,7 @@ Supervision
 OpenCV
 NumPy
 Matplotlib
+PyTorch
 Pandas
 
 
